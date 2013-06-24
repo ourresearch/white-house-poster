@@ -1,7 +1,3 @@
-ImpactStory's White House poster
-==================
-
-
 ![sample-sized version of poster](https://raw.github.com/total-impact/white-house-poster/master/White-House-poster-small.jpg)
 
 This poster was originally presented as part of the [White House Open Science Champions of Change event](http://www.whitehouse.gov/blog/2013/06/21/celebrating-open-science-champions-change-white-house) on June 20, 2013. It's a living document and is being actively updated.
